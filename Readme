@@ -1,0 +1,27 @@
+Enunciado do Projeto
+Título: Incrementador de Valor
+
+Descrição:
+Desenvolva um programa em Python que define uma função para incrementar um valor inteiro em 1. O programa deve solicitar ao usuário que insira um valor inteiro, calcular o valor incrementado utilizando a função definida e exibir o resultado.
+
+Requisitos:
+
+Definir uma função incrementar que receba um valor inteiro como argumento e retorne o valor incrementado em 1.
+Solicitar ao usuário que insira um valor inteiro.
+Utilizar a função incrementar para calcular o valor incrementado.
+Exibir o valor incrementado.
+
+# Incrementador de Valor
+
+## Descrição
+Este projeto implementa uma função em Python para incrementar um valor inteiro em 1. O programa solicita ao usuário que insira um valor inteiro, utiliza a função para calcular o valor incrementado e exibe o resultado.
+
+## Funcionalidades
+- Leitura de um valor inteiro fornecido pelo usuário.
+- Definição de uma função que incrementa o valor em 1.
+- Cálculo e exibição do valor incrementado.
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/incrementador-valor.git
